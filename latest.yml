@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: electron-packager-setup-1.0.0.exe
+    sha512: znThcmZn1Q/8635XL2VFYglfhqSGMPtDdofFwJow9dvGoKi9zHPGrRtoWwILrV4th3L4q6ZYpR4DMhUMexUgpg==
+    size: 93676299
+path: electron-packager-setup-1.0.0.exe
+sha512: znThcmZn1Q/8635XL2VFYglfhqSGMPtDdofFwJow9dvGoKi9zHPGrRtoWwILrV4th3L4q6ZYpR4DMhUMexUgpg==
+releaseDate: '2025-06-09T01:33:58.644Z'
